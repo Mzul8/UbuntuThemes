@@ -1,0 +1,1 @@
+Ubuntu NordTheme Gnome,Terminal
